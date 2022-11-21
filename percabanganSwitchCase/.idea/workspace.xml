@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="660ee41a-50e5-4408-b467-9ffd4c1eece8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/bin/bangunruang/BangunRuang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/bin/bangunruang/Bola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/bin/bangunruang/Kubus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/bin/bangunruang/Tabung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/bin/bangunruang/UjiBangunRuang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/src/bangunruang/BangunRuang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/src/bangunruang/Bola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/src/bangunruang/Kubus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/src/bangunruang/Tabung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangunRuang/src/bangunruang/UjiBangunRuang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/LatihanXira.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/out/production/LatihanXira/sebelasra/ProgramPertamaSebelasRa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LatihanXira/src/sebelasra/ProgramPertamaSebelasRa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percabanganIFELSE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percabanganIFELSE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percabanganIFELSE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percabanganIFELSE/percabanganIFELSE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percabanganIFELSE/src/percabangan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/percabangan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percabangan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/out/production/perulanganXIRA/perulangan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/perulanganXIRA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perulanganXIRA/src/perulangan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/bin/pewarisan_xira/Kendaraan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/bin/pewarisan_xira/KeretaApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/bin/pewarisan_xira/Pesawat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/bin/pewarisan_xira/UjiKendaraan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/pewarisan_xira.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/src/pewarisan_xira/Kendaraan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/src/pewarisan_xira/KeretaApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/src/pewarisan_xira/Pesawat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pewarisan_xira/src/pewarisan_xira/UjiKendaraan.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrJXfr6p4BnmO3ytaCPmQTtIwn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percabangan.Main" />
+      <module name="percabanganSwitchCase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660ee41a-50e5-4408-b467-9ffd4c1eece8" name="Changes" comment="" />
+      <created>1669037311366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669037311366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="51e22d00-97bb-426b-b494-2673e7bb6970">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/TUGAS SEKOLAH/TUGAS BU LIANA/OOP JAVA/percabanganSwitchCase/src/percabangan" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="51e22d00-97bb-426b-b494-2673e7bb6970" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
