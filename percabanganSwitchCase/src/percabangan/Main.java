@@ -14,12 +14,16 @@ public class Main {
                 System.out.println("Angka yang anda masukkan adalah " + angka);
             case 2:
                 System.out.println("Angka yang anda masukkan adalah " + angka);
+                break;
             case 3:
                 System.out.println("Angka yang anda masukkan adalah " + angka);
+                break;
             case 4:
                 System.out.println("Angka yang anda masukkan adalah " + angka);
+                break;
             default:
                 System.out.println("MAAF, NILAI YANG ANDA MASUKKAN TYDACK VALDI");
+                break;
         }
 
     }
