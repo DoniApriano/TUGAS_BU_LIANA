@@ -1,30 +1,21 @@
 package pewarisan;
 
-public class Pesawat extends Kendaraan {
-
-    private int pilot;
-    private int pramugari;
+public class Kereta extends Kendaraan{
+    private int masinis;
     private int penumpang;
+    private  int pramugari;
 
-    public Pesawat(String namaKendaraan) {
+    public Kereta(String namaKendaraan) {
         super();
         this.namaKendaraan = namaKendaraan;
     }
 
-    public void setPilot(int pilot) {
-        this.pilot = pilot;
+    public void setMasinis(int masinis) {
+        this.masinis = masinis;
     }
 
-    public int getPilot() {
-        return pilot;
-    }
-
-    public void setPramugari(int pramugari) {
-        this.pramugari = pramugari;
-    }
-
-    public int getPramugari() {
-        return pramugari;
+    public int getMasinis() {
+        return masinis;
     }
 
     public void setPenumpang(int penumpang) {
@@ -35,9 +26,17 @@ public class Pesawat extends Kendaraan {
         return penumpang;
     }
 
-    public void infoPesawat() {
+    public void setPramugari(int pramugari) {
+        this.pramugari = pramugari;
+    }
+
+    public int getPramugari() {
+        return pramugari;
+    }
+
+    public void infoKereta() {
         System.out.println("Nama Kendaraan = " + this.namaKendaraan);
-        System.out.println("Jumlah Pilot = " + getPilot());
+        System.out.println("Jumlah Masinis = " + getMasinis());
         System.out.println("Jumlah Pramugari = " + getPramugari());
         System.out.println("Jumlah Penumpang = " + getPenumpang());
         System.out.println("==============================================================");

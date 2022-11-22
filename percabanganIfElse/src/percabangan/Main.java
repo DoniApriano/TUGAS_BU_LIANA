@@ -13,7 +13,6 @@ public class Main {
         } else {
             System.out.println("NIlai tidak valdi");
         }
-
     }
 
 }
